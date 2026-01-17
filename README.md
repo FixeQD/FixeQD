@@ -14,10 +14,13 @@ Currently pursuing my education in Computer Science at a technical secondary sch
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![FixeQ GitHub Stats](https://github-readme-stats.fixeq.me/api?username=FixeQD&show_icons=true&theme=transparent&border_color=C0C0C0&hide=stars&icon_color=999999&rank_icon=github)](https://fixeq.me)
 
-[![Top Langs](https://github-readme-stats.fixeq.me/api/top-langs/?username=FixeQD&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&border_color=C0C0C0)](https://fixeq.me)
+[![FixeQ 3D Contribution Graph](https://github-readme-stats.fixeq.me/api/3d?username=FixeQD&theme=night-green,bg-transparent&type=normal&animation=true)](https://fixeq.me)
+
+<p align="center">
+  <img src="https://github-readme-stats.fixeq.me/api?username=FixeQD&show_icons=true&theme=transparent&border_color=C0C0C0&hide=stars&icon_color=999999&rank_icon=github" alt="FixeQ GitHub Stats" />
+  <img src="https://github-readme-stats.fixeq.me/api/top-langs/?username=FixeQD&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&border_color=C0C0C0" alt="Top Languages" />
+</p>
 
 </div>
 
