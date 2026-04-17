@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**IT Technical School Student | Aspiring Developer | Tech Enthusiast**
+**A random guy doing random things...**
 
 Currently pursuing my education in Computer Science at a technical secondary school, where I'm building a strong foundation in programming... Alright quit yapping, straight to the point.
 
