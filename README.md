@@ -32,6 +32,6 @@ Currently pursuing my education in Computer Science at a technical secondary sch
 
 <div align="center">
   
-💼 **Open to collaboration, internships, and new opportunities!**
+💼 **If you have something worth building, I'm listening**
 
 </div>
