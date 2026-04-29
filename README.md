@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**A random guy doing random things...**
+**Self-hosting stuff I shouldn't and shipping code faster than I document it**
 
 Currently pursuing my education in Computer Science at a technical secondary school, where I'm building a strong foundation in programming... Alright quit yapping, straight to the point.
 
