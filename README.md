@@ -32,6 +32,5 @@
 <div align="center">
   
 💼 **If you have something worth building, I'm listening**<br>
-*No frontend fluff, just code.*
 
 </div>
