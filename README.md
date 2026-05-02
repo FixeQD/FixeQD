@@ -4,10 +4,9 @@
 
 **Self-hosting stuff I shouldn't and shipping code faster than I document it**
 
-Currently pursuing my education in Computer Science at a technical secondary school, where I'm building a strong foundation in programming... Alright quit yapping, straight to the point.
-
-[![Website](https://img.shields.io/badge/🌐_fixeq.me-Visit-blue?style=for-the-badge)](https://fixeq.me)
-[![GitHub followers](https://img.shields.io/github/followers/FixeQD?style=for-the-badge&logo=github)](https://github.com/FixeQD)
+🐧 [Artix Linux + dinit enjoyer](https://gist.github.com/FixeQD/7fd980fbc2f385f0008f3a72a797cbe1)<br>
+🧠 Professional “why did I do this to myself” engineer  
+🐛 Debugging weird stuff > sleeping  
 
 </div>
 
@@ -23,15 +22,16 @@ Currently pursuing my education in Computer Science at a technical secondary sch
 
 - 🎓 IT student at technical school
 - 🔭 Building projects, breaking things, fixing them (usually)
-- 🌱 Learning... when I feel like it
+- 🌱 Constantly learning random tech I probably don't need
 - 💻 Code first, overthink later
 - 💬 Got questions? Fire away
-- 🎯 Making stuff that actually works (Well maybe lol)
+- 🎯 Building stuff that somehow survives production
 
 ---
 
 <div align="center">
   
-💼 **If you have something worth building, I'm listening**
+💼 **If you have something worth building, I'm listening**<br>
+*No frontend fluff, just code.*
 
 </div>
