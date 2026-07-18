@@ -4,7 +4,7 @@
 
 **Self-hosting stuff I shouldn't and shipping code faster than I document it**
 
-🐧 [Artix Linux + dinit enjoyer](https://gist.github.com/FixeQD/7fd980fbc2f385f0008f3a72a797cbe1)<br>
+🐧 [finix enjoyer](https://github.com/FixeQD/nix-files)<br>
 🧠 Professional “why did I do this to myself” engineer  
 🐛 Debugging weird stuff > sleeping  
 
